@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kumarrajravi000@gmail.com**
 
-- 📫 How to reach me **https://wallteam.my.canva.site/my-portfolio**
+- 📫 My portfolio link is this **https://wallteam.my.canva.site/my-portfolio**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1D4sqWar4CZSgQRrWnKqQcsuHotjK8MSc/view?usp=share_link](https://drive.google.com/file/d/1D4sqWar4CZSgQRrWnKqQcsuHotjK8MSc/view?usp=share_link)
 
