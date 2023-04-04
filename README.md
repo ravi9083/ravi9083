@@ -5,13 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi9083&label=Profile%20views&color=0e75b6&style=flat" alt="ravi9083" /> </p>
 
-- 🔭 I’m currently working on **IoT based pollution monitoring system.**
+- 🔭 I’m currently working on project **IoT based pollution monitoring system.**
 
 - 🌱 I’m currently learning **Backend database management and SQL.**
 
 - 💬 Ask me about **my projects and skills.**
 
 - 📫 How to reach me **kumarrajravi000@gmail.com**
+
+- 📫 How to reach me **https://wallteam.my.canva.site/my-portfolio**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1D4sqWar4CZSgQRrWnKqQcsuHotjK8MSc/view?usp=share_link](https://drive.google.com/file/d/1D4sqWar4CZSgQRrWnKqQcsuHotjK8MSc/view?usp=share_link)
 
