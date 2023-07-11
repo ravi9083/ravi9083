@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi9083&label=Profile%20views&color=0e75b6&style=flat" alt="ravi9083" /> </p>
 
-- 🔭 I’m currently working on project **IoT based pollution monitoring system.**
+- 🔭 I’m currently working on project **IoT based pollution monitoring system with Research paper attached as well.**
 
 - 🌱 I’m currently learning **Backend database management and SQL.**
 
