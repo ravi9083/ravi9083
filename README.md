@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi kumar</h1>
-<h3 align="center">A passionate frontend & android developer from India.</h3>
+<h3 align="center">A passionate Research analyst, frontend & android developer from India.</h3>
 
 
 
